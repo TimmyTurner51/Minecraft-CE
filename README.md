@@ -18,12 +18,12 @@ Current features other than release notes:
 
 ------------------------------------------------------------------------------------------
                                      Controls:
-Arrow keys               - Turn/look around
-2nd                      - fly up
-math                     - fly down
-mode, apps, alpha, stat  - move around
-[X,T,0,n] key            - Place Block
-[del]                    - Destroy Block
+                                     Arrow keys               - Turn/look around
+                                     2nd                      - fly up
+                                     math                     - fly down
+                                     mode, apps, alpha, stat  - move around
+                                     [X,T,0,n] key            - Place Block
+                                     [del]                    - Destroy Block
 ------------------------------------------------------------------------------------------
 Preview:
 ![Image](https://github.com/user-attachments/assets/fd627c60-6b51-40eb-bc47-bad8bff74295)
