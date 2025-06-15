@@ -6,10 +6,10 @@ This makes your calc lag due to rendering so much, it can't handle the current i
 
 
 Pre-Alpha v6.14.25a2 release notes:
-Working hotbar
-Place blocks
-Destroy blocks
-You are given an empty slot, grass, dirt, tree log, tree leaves by default.
+- Working hotbar
+- Place blocks
+- Destroy blocks
+- You are given an empty slot, grass, dirt, tree log, tree leaves by default.
 ------------------------------------------------------------------------------------------
 Current features other than release notes:
 - Options Menu (FOV tuning, render distance, LOD distance, and render resolution)
