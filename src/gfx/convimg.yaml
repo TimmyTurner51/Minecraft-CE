@@ -1,0 +1,15 @@
+converts:
+  - name: DIRT
+    palette: xlibc
+    tilesets:
+      tile-width: 16
+      tile-height: 16
+      images:
+        - MCblockTextureDirt1.png
+    transparent-color-index: 0
+
+outputs:
+  - type: appvar
+    name: MCTILES
+    converts:
+      - DIRT
